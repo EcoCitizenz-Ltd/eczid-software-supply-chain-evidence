@@ -1,5 +1,7 @@
 # ECZ-ID Software Supply Chain Evidence
 
+![ECZ-ID Software Supply Chain Evidence visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-software-supply-chain-evidence.jpg)
+
 ## Make software-supply-chain evidence easier to review, re-check and keep current.
 
 This resource is for software, security and procurement teams working with SBOMs, software provenance, supplier evidence and DORA-related ICT evidence requirements.
@@ -84,6 +86,5 @@ A reusable evidence model should make it possible to:
 
 ## Public operator proof
 
-**ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
