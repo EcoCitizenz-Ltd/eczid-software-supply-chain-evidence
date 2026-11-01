@@ -70,7 +70,7 @@ A reusable evidence model should make it possible to:
 4. preserve machine-readable references
 5. let the relying party apply its own policy
 
-[View an ECZ-ID Resolver example](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+[View an ECZ-ID Resolver example](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
 
 ---
 
@@ -87,4 +87,4 @@ A reusable evidence model should make it possible to:
 ## Public operator proof
 
 **ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
-[View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+[View current public identity and evidence](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
