@@ -8,11 +8,11 @@ This resource is for software, security and procurement teams working with SBOMs
 
 ### Start here
 
-[Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=home)
+[Explore EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=home&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
-[Explore the ECZ-ID Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=developers)
+[Explore the ECZ-ID Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=developers&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
-[Start with ECZ-ID / TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=start)
+[Start with ECZ-ID / TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=start&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
 ---
 
@@ -76,11 +76,11 @@ A reusable evidence model should make it possible to:
 
 ## Explore ECZ-ID
 
-[EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=cta)
+[EcoCitizenz](https://www.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=cta&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
-[Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=gateway)
+[Developer Gateway](https://developers.ecocitizenz.com?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=gateway&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
-[Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=trustops)
+[Start with TrustOps](https://trustops.ecocitizenz.com/start?utm_source=github&utm_medium=repository&utm_campaign=supply-chain-evidence&utm_content=trustops&ecz_source=github&ecz_surface=eczid-software-supply-chain-evidence)
 
 ---
 
